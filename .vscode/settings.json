@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\yraghunp\\Downloads\\poi-bin-5.0.0-20210120\\poi-5.0.0\\ooxml-lib\\commons-compress-1.20.jar",
+        "c:\\Users\\yraghunp\\Downloads\\poi-bin-5.0.0-20210120\\poi-5.0.0\\ooxml-lib\\curvesapi-1.06.jar",
+        "c:\\Users\\yraghunp\\Downloads\\poi-bin-5.0.0-20210120\\poi-5.0.0\\ooxml-lib\\xmlbeans-4.0.0.jar"
+    ]
+}
